@@ -9,6 +9,7 @@ public class Main
 
         while (option != 0) {
             System.out.println("");
+            System.out.println("potato");
             System.out.println("1. Drink");
             System.out.println("2. Fries");
             System.out.println("3. Salad");
